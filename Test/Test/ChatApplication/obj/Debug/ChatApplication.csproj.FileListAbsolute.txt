@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\bin\Debug\ChatApplication.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\bin\Debug\ChatApplication.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\bin\Debug\ChatApplication.pdb
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\bin\Debug\log4net.dll
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\bin\Debug\log4net.xml
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\obj\Debug\ChatApplication.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\obj\Debug\ChatApplication.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ChatApplication\obj\Debug\ChatApplication.pdb

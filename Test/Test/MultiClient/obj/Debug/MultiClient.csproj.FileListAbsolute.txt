@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\MultiClient\bin\Debug\MultiClient.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\MultiClient\bin\Debug\MultiClient.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\MultiClient\bin\Debug\MultiClient.pdb
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\MultiClient\bin\Debug\log4net.dll
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\MultiClient\bin\Debug\log4net.xml
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\MultiClient\obj\Debug\MultiClient.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\MultiClient\obj\Debug\MultiClient.pdb

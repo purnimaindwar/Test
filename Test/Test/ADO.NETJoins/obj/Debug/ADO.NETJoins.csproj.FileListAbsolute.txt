@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ADO.NETJoins\bin\Debug\ADO.NETJoins.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ADO.NETJoins\bin\Debug\ADO.NETJoins.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ADO.NETJoins\bin\Debug\ADO.NETJoins.pdb
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ADO.NETJoins\obj\Debug\ADO.NETJoins.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\ADO.NETJoins\obj\Debug\ADO.NETJoins.pdb

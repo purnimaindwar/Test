@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\bin\Debug\log4net.dll
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\bin\Debug\log4net.xml
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+c:\users\user\documents\visual studio 2015\Projects\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
